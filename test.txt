@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) adalah cabang ilmu komputer yang berfokus pada pembuatan sistem yang dapat melakukan tugas-tugas yang biasanya membutuhkan kecerdasan manusia. Tugas-tugas tersebut meliputi pengenalan suara, pengambilan keputusan, penerjemahan bahasa, dan pengenalan gambar.
+
+AI terbagi menjadi beberapa jenis:
+1. Machine Learning - sistem yang belajar dari data tanpa diprogram secara eksplisit.
+2. Deep Learning - subset dari machine learning yang menggunakan neural network berlapis.
+3. Natural Language Processing (NLP) - kemampuan komputer untuk memahami dan menghasilkan bahasa manusia.
+4. Computer Vision - kemampuan komputer untuk menginterpretasi informasi visual dari gambar atau video.
+
+Saat ini, AI digunakan di berbagai bidang seperti kesehatan, keuangan, transportasi, dan pendidikan. Contoh penerapan AI dalam kehidupan sehari-hari antara lain asisten virtual, rekomendasi konten, dan kendaraan otonom.
